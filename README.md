@@ -1,7 +1,7 @@
-Royal Motors Car Sales
+## Royal Motors Car Sales
 Welcome to Royal Motors! We are proud to offer the finest collection of luxury, sports, and family vehicles. Our mission is to provide exceptional quality, unmatched customer service, and a seamless car buying experience.
 
-About Us
+## *About Us*
 At Royal Motors, we believe that driving is more than just transportation—it's a lifestyle. Our extensive inventory features the latest models from top automotive brands, meticulously selected to meet the diverse needs and preferences of our clients.
 
 Features
